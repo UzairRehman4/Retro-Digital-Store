@@ -15,7 +15,7 @@ const Hero = () => {
                 </div>
 
                 <div className='flex items-center justify-center'>
-                    <Image src={"/image.jpg"} width={360} height={320} className='scale-x-[-1]' />
+                    <Image src={"/image.jpg"} width={360} height={320} alt="img" className='scale-x-[-1]' />
                 </div>
             </div>
         </div>
