@@ -11,7 +11,7 @@ export default [
 
     },
     {
-        id: 1,
+        id: 2,
         name: "E-commerce App UI Kit",
         price: 10,
         image: "/sample.png",
@@ -22,7 +22,7 @@ export default [
 
     },
     {
-        id: 1,
+        id: 3,
         name: "E-commerce App UI Kit",
         price: 10,
         image: "/sample.png",
@@ -33,7 +33,7 @@ export default [
 
     },
     {
-        id: 1,
+        id: 4,
         name: "E-commerce App UI Kit",
         price: 10,
         image: "/sample.png",
@@ -44,7 +44,7 @@ export default [
 
     },
     {
-        id: 1,
+        id: 5,
         name: "E-commerce App UI Kit",
         price: 10,
         image: "/sample.png",
